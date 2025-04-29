@@ -1,0 +1,36 @@
+header {
+    display: inline-block;
+    width: 800px;
+    margin-left: calc(50% - 400px);
+    background-color: pink;
+}
+
+img {
+    float: left;
+}
+
+nav {
+    float: right;
+}
+
+ a {
+    color: #333;
+    text-decoration: none;
+    margin-left: 30px;
+}
+
+a:first-child {
+    margin: 0;
+}
+
+main {
+    width: 800px;
+    margin-left: calc(50% - 400px);
+    background-color: aquamarine;
+}
+
+footer{
+    width: 800px;
+    margin-left: calc(50% - 400px);
+    background-color: lightgrey;
+}
